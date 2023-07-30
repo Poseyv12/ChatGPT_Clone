@@ -56,4 +56,4 @@ The ChatGPT Clone is released under the MIT License.
 ## Acknowledgments
 This project was inspired by the power of AI language models and their potential in web applications. Thanks to the creators of GPT-3.5 and other related technologies that made this project possible.
 
-Thank you for using the ChatGPT Clone! If you have any questions or need further assistance, feel free to contact us at your.email@example.com. Enjoy your conversations with ChatGPT!
+Thank you for using the ChatGPT Clone! Enjoy your conversations with ChatGPT!
